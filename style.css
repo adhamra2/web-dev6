@@ -344,6 +344,9 @@ nav ul li a:hover {
     font-size: 18px;
     text-align: center;
 }
+.home-all h1 {
+    font-size: 2.1rem;
+}
 .codepen-button {
     margin-inline: auto;
 }
